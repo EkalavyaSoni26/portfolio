@@ -1,2 +1,3 @@
-# JasminPuraniPortfolio.github.io
-Jasmin Purani 's Portfolio
+
+Hi, I am Ekalavya 
+This is my portfolio
