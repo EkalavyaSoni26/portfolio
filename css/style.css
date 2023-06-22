@@ -1388,7 +1388,12 @@ ul.slides li {
   margin-top: 2rem;
   font-size: 19px;
 }
-
+.img_port a { 
+    display: block;
+    width: 100%;
+    height: auto;
+    
+}
 .img_port img {
   margin-bottom: 2rem;
   width: 100%;
